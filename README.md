@@ -1,2 +1,2 @@
-# explainability_scaffold
+# Explainability Scaffold
 Codebase for explainability research
